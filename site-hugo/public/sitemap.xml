@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://web.etna.student/posts/grafana/</loc>
+    <lastmod>2021-04-11T16:34:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.etna.student/</loc>
+    <lastmod>2021-04-11T16:34:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.etna.student/posts/</loc>
+    <lastmod>2021-04-11T16:34:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.etna.student/posts/traefik/</loc>
+    <lastmod>2021-04-11T16:34:42+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.etna.student/posts/wordpressandmysql/</loc>
+    <lastmod>2021-04-11T16:26:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.etna.student/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://web.etna.student/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,4 @@
+baseURL = "https://my-url.fr/"
+languageCode = "en-us"
+title = "MY WEBSITE"
+theme = "ananke"
